@@ -1,2 +1,2 @@
-# my-first-project
+# project
 Simple calculator using Java
